@@ -37,7 +37,7 @@ public class MainActivity extends AppCompatActivity {
         });
     }
 
-    // without test
+    // without test app submit button
 
     @OnClick(R.id.button)
     public void submit() {
